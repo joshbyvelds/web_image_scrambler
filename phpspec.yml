@@ -1,0 +1,5 @@
+suites:
+  #...
+  default:
+    namespace: ImageScrambler
+    src_path: production/php
